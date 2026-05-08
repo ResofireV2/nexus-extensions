@@ -1,3 +1,12 @@
 {
-  "extensions": []
+  "extensions": [
+    {
+      "name": "Gamepedia",
+      "slug": "gamepedia",
+      "description": "A game database powered by IGDB. Browse games, link threads to games, track your gamelog.",
+      "author": "ResofireV2",
+      "category": "games",
+      "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gamepedia/main/manifest.json"
+    }
+  ]
 }
