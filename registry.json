@@ -1,12 +1,16 @@
 {
   "extensions": [
     {
-      "name": "Gamepedia",
-      "slug": "gamepedia",
-      "description": "A game database powered by IGDB. Browse games, link threads to games, track your gamelog.",
-      "author": "ResofireV2",
-      "category": "games",
-      "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gamepedia/main/manifest.json"
+      "slug":         "gamepedia",
+      "name":         "Gamepedia",
+      "version":      "0.2.0",
+      "description":  "A game database powered by IGDB. Browse games, link threads to games, and track your gamelog.",
+      "author":       "ResofireV2",
+      "homepage":     "https://github.com/ResofireV2/nexus-gamepedia",
+      "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gamepedia/main/manifest.json",
+      "logo_url":     "https://billyrayfoss.com/api/v1/extensions/gamepedia/assets/logo.png",
+      "categories":   ["games", "integrations"],
+      "installs":     0
     }
   ]
 }
