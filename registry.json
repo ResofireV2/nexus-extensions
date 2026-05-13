@@ -11,7 +11,7 @@
       "banner_url":   "https://raw.githubusercontent.com/ResofireV2/nexus-gamepedia/main/priv/static/banner.webp",
       "categories":   ["games", "integrations"],
       "installs":     0
-    }
+    },
     {
       "slug":         "nexus-gifs",
       "name":         "GIFs",
@@ -23,6 +23,6 @@
       "banner_url":   "https://raw.githubusercontent.com/ResofireV2/nexus-gifs/main/backend/priv/static/assets/banner.webp",
       "categories":   ["media", "composer"],
       "installs":     0
-}
+    }
   ]
 }
