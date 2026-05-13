@@ -12,5 +12,17 @@
       "categories":   ["games", "integrations"],
       "installs":     0
     }
+    {
+      "slug":         "nexus-gifs",
+      "name":         "GIFs",
+      "description":  "Insert GIFs and stickers from KLIPY into your posts.",
+      "author":       "ResofireV2",
+      "homepage":     "https://github.com/ResofireV2/nexus-gifs",
+      "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gifs/main/manifest.json",
+      "logo_url":     "https://raw.githubusercontent.com/ResofireV2/nexus-gifs/main/backend/priv/static/assets/logo.webp",
+      "banner_url":   "https://raw.githubusercontent.com/ResofireV2/nexus-gifs/main/backend/priv/static/assets/banner.webp",
+      "categories":   ["media", "composer"],
+      "installs":     0
+}
   ]
 }
