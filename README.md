@@ -1,3 +1,5 @@
+![Nexus](https://raw.githubusercontent.com/ResofireV2/nexus/master/priv/static/images/nexus-og.webp)
+
 # nexus-extensions
 
 The official extension registry for [Nexus](https://github.com/ResofireV2/nexus) forum software. Extensions listed here appear in the one-click install store inside every Nexus admin panel.
