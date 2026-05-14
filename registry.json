@@ -23,6 +23,18 @@
       "banner_url":   "https://raw.githubusercontent.com/ResofireV2/nexus-gifs/main/backend/priv/static/assets/banner.webp",
       "categories":   ["media", "composer"],
       "installs":     0
+    },
+    {
+      "slug":         "nexus-awards",
+      "name":         "Nexus Awards",
+      "description":  "Community awards and voting ceremonies. Run nominations, let members vote, and publish results with real-time counts.",
+      "author":       "billyrayfoss",
+      "homepage":     "https://github.com/ResofireV2/nexus-awards",
+      "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-awards/main/manifest.json",
+      "logo_url":     "https://raw.githubusercontent.com/ResofireV2/nexus-awards/main/priv/static/logo.webp",
+      "banner_url":   "https://raw.githubusercontent.com/ResofireV2/nexus-awards/main/priv/static/banner.webp",
+      "categories":   ["community", "events"],
+      "installs":     0
     }
   ]
 }
