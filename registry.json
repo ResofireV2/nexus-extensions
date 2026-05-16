@@ -47,6 +47,18 @@
       "banner_url":   "https://raw.githubusercontent.com/ResofireV2/nexus-avatars/main/priv/static/banner.webp",
       "categories":   ["community", "utilities"],
       "installs":     0
+    },
+    {
+      "slug":         "wrapped",
+      "name":         "Wrapped",
+      "description":  "A personalised year-in-review for every member of your community.",
+      "author":       "billyrayfoss",
+      "homepage":     "https://github.com/ResofireV2/nexus-wrapped",
+      "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-wrapped/main/manifest.json",
+      "logo_url":     "https://raw.githubusercontent.com/ResofireV2/nexus-wrapped/main/priv/static/logo.webp",
+      "banner_url":   "https://raw.githubusercontent.com/ResofireV2/nexus-wrapped/main/priv/static/banner.webp",
+      "categories":   ["community", "analytics"],
+      "installs":     0
     }
   ]
 }
