@@ -25,6 +25,18 @@
       "installs":     0
     },
     {
+      "slug":         "nexus-gallery",
+      "name":         "Gallery",
+      "description":  "A community media gallery supporting images, videos, and embeds with collections, ratings, comments, reactions, and subscriptions.",
+      "author":       "billyrayfoss",
+      "homepage":     "https://github.com/ResofireV2/nexus-gallery",
+      "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gallery/main/manifest.json",
+      "logo_url":     "https://raw.githubusercontent.com/ResofireV2/nexus-gallery/main/priv/static/logo.webp",
+      "banner_url":   "https://raw.githubusercontent.com/ResofireV2/nexus-gallery/main/priv/static/banner.webp",
+      "categories":   ["media", "community"],
+      "installs":     0
+    },
+    {
       "slug":         "nexus-awards",
       "name":         "Nexus Awards",
       "description":  "Community awards and voting ceremonies. Run nominations, let members vote, and publish results with real-time counts.",
