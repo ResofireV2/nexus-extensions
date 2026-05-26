@@ -1,76 +1,109 @@
 {
   "extensions": [
     {
-      "slug":         "gamepedia",
-      "name":         "Gamepedia",
-      "description":  "A game database powered by IGDB. Browse games, link threads to games, and track your gamelog.",
-      "author":       "ResofireV2",
-      "homepage":     "https://github.com/ResofireV2/nexus-gamepedia",
+      "slug": "gamepedia",
+      "name": "Gamepedia",
+      "description": "A game database powered by IGDB. Browse games, link threads to games, and track your gamelog.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-gamepedia",
       "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gamepedia/main/manifest.json",
-      "logo_url":     "https://raw.githubusercontent.com/ResofireV2/nexus-gamepedia/main/priv/static/logo.webp",
-      "banner_url":   "https://raw.githubusercontent.com/ResofireV2/nexus-gamepedia/main/priv/static/banner.webp",
-      "categories":   ["games", "integrations"],
-      "installs":     0
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gamepedia/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gamepedia/main/priv/static/banner.webp",
+      "categories": [
+        "games",
+        "integrations"
+      ],
+      "installs": 0
     },
     {
-      "slug":         "nexus-gifs",
-      "name":         "GIFs",
-      "description":  "Insert GIFs and stickers from KLIPY into your posts.",
-      "author":       "ResofireV2",
-      "homepage":     "https://github.com/ResofireV2/nexus-gifs",
+      "slug": "nexus-gifs",
+      "name": "GIFs",
+      "description": "Insert GIFs and stickers from KLIPY into your posts.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-gifs",
       "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gifs/main/manifest.json",
-      "logo_url":     "https://raw.githubusercontent.com/ResofireV2/nexus-gifs/main/priv/static/logo.webp",
-      "banner_url":   "https://raw.githubusercontent.com/ResofireV2/nexus-gifs/main/priv/static/banner.webp",
-      "categories":   ["media", "composer"],
-      "installs":     0
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gifs/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gifs/main/priv/static/banner.webp",
+      "categories": [
+        "media",
+        "composer"
+      ],
+      "installs": 0
     },
     {
-      "slug":         "nexus-gallery",
-      "name":         "Gallery",
-      "description":  "A community media gallery supporting images, videos, and embeds with collections, ratings, comments, reactions, and subscriptions.",
-      "author":       "billyrayfoss",
-      "homepage":     "https://github.com/ResofireV2/nexus-gallery",
+      "slug": "nexus-gallery",
+      "name": "Gallery",
+      "description": "A community media gallery supporting images, videos, and embeds with collections, ratings, comments, reactions, and subscriptions.",
+      "author": "billyrayfoss",
+      "homepage": "https://github.com/ResofireV2/nexus-gallery",
       "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gallery/main/manifest.json",
-      "logo_url":     "https://raw.githubusercontent.com/ResofireV2/nexus-gallery/main/priv/static/logo.webp",
-      "banner_url":   "https://raw.githubusercontent.com/ResofireV2/nexus-gallery/main/priv/static/banner.webp",
-      "categories":   ["media", "community"],
-      "installs":     0
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gallery/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gallery/main/priv/static/banner.webp",
+      "categories": [
+        "media",
+        "community"
+      ],
+      "installs": 0
     },
     {
-      "slug":         "nexus-awards",
-      "name":         "Nexus Awards",
-      "description":  "Community awards and voting ceremonies. Run nominations, let members vote, and publish results with real-time counts.",
-      "author":       "billyrayfoss",
-      "homepage":     "https://github.com/ResofireV2/nexus-awards",
+      "slug": "nexus-awards",
+      "name": "Nexus Awards",
+      "description": "Community awards and voting ceremonies. Run nominations, let members vote, and publish results with real-time counts.",
+      "author": "billyrayfoss",
+      "homepage": "https://github.com/ResofireV2/nexus-awards",
       "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-awards/main/manifest.json",
-      "logo_url":     "https://raw.githubusercontent.com/ResofireV2/nexus-awards/main/priv/static/logo.webp",
-      "banner_url":   "https://raw.githubusercontent.com/ResofireV2/nexus-awards/main/priv/static/banner.webp",
-      "categories":   ["community", "events"],
-      "installs":     0
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-awards/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-awards/main/priv/static/banner.webp",
+      "categories": [
+        "community",
+        "events"
+      ],
+      "installs": 0
     },
     {
-      "slug":         "nexus-avatars",
-      "name":         "Nexus Avatars",
-      "description":  "Automatically generates unique avatars for every user. Six distinct styles: Mech, Feline, Canine, Inkblot, Emblem and Snowflake.",
-      "author":       "ResofireV2",
-      "homepage":     "https://github.com/ResofireV2/nexus-avatars",
+      "slug": "nexus-avatars",
+      "name": "Nexus Avatars",
+      "description": "Automatically generates unique avatars for every user. Six distinct styles: Mech, Feline, Canine, Inkblot, Emblem and Snowflake.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-avatars",
       "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-avatars/main/manifest.json",
-      "logo_url":     "https://raw.githubusercontent.com/ResofireV2/nexus-avatars/main/priv/static/logo.webp",
-      "banner_url":   "https://raw.githubusercontent.com/ResofireV2/nexus-avatars/main/priv/static/banner.webp",
-      "categories":   ["community", "utilities"],
-      "installs":     0
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-avatars/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-avatars/main/priv/static/banner.webp",
+      "categories": [
+        "community",
+        "utilities"
+      ],
+      "installs": 0
     },
     {
-      "slug":         "wrapped",
-      "name":         "Wrapped",
-      "description":  "A personalised year-in-review for every member of your community.",
-      "author":       "billyrayfoss",
-      "homepage":     "https://github.com/ResofireV2/nexus-wrapped",
+      "slug": "wrapped",
+      "name": "Wrapped",
+      "description": "A personalised year-in-review for every member of your community.",
+      "author": "billyrayfoss",
+      "homepage": "https://github.com/ResofireV2/nexus-wrapped",
       "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-wrapped/main/manifest.json",
-      "logo_url":     "https://raw.githubusercontent.com/ResofireV2/nexus-wrapped/main/priv/static/logo.webp",
-      "banner_url":   "https://raw.githubusercontent.com/ResofireV2/nexus-wrapped/main/priv/static/banner.webp",
-      "categories":   ["community", "analytics"],
-      "installs":     0
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-wrapped/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-wrapped/main/priv/static/banner.webp",
+      "categories": [
+        "community",
+        "analytics"
+      ],
+      "installs": 0
+    },
+    {
+      "slug": "nexus-events",
+      "name": "Nexus Events",
+      "description": "Community event scheduling with RSVP, calendar views, and post-linked event cards.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-events",
+      "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-events/main/manifest.json",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-events/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-events/main/priv/static/banner.webp",
+      "categories": [
+        "community",
+        "events"
+      ],
+      "installs": 0
     }
   ]
 }
