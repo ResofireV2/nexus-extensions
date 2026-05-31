@@ -104,6 +104,22 @@
         "events"
       ],
       "installs": 0
+    },
+    {
+      "type": "theme",
+      "slug": "dusk",
+      "name": "Dusk",
+      "description": "Warm earth-toned surfaces with an amber accent. Easy on the eyes for long reading sessions.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-dusk",
+      "github_url": "https://github.com/ResofireV2/nexus-dusk",
+      "logo_url": "https://resofireV2.github.io/nexus-dusk/logo.webp",
+      "banner_url": "https://resofireV2.github.io/nexus-dusk/banner.webp",
+      "categories": [
+        "dark",
+        "warm"
+      ],
+      "version": "1.0.0"
     }
   ]
 }
