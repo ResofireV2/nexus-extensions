@@ -113,13 +113,13 @@
       "author": "ResofireV2",
       "homepage": "https://github.com/ResofireV2/nexus-dusk",
       "github_url": "https://github.com/ResofireV2/nexus-dusk",
-      "logo_url": "https://resofireV2.github.io/nexus-dusk/logo.webp",
-      "banner_url": "https://resofireV2.github.io/nexus-dusk/banner.webp",
+      "logo_url": "https://resofirev2.github.io/nexus-dusk/logo.webp",
+      "banner_url": "https://resofirev2.github.io/nexus-dusk/banner.webp",
       "categories": [
         "dark",
         "warm"
       ],
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
