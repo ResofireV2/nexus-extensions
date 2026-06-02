@@ -34,7 +34,7 @@
       "slug": "nexus-gallery",
       "name": "Gallery",
       "description": "A community media gallery supporting images, videos, and embeds with collections, ratings, comments, reactions, and subscriptions.",
-      "author": "billyrayfoss",
+      "author": "ResofireV2",
       "homepage": "https://github.com/ResofireV2/nexus-gallery",
       "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gallery/main/manifest.json",
       "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-gallery/main/priv/static/logo.webp",
@@ -49,7 +49,7 @@
       "slug": "nexus-awards",
       "name": "Nexus Awards",
       "description": "Community awards and voting ceremonies. Run nominations, let members vote, and publish results with real-time counts.",
-      "author": "billyrayfoss",
+      "author": "ResofireV2",
       "homepage": "https://github.com/ResofireV2/nexus-awards",
       "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-awards/main/manifest.json",
       "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-awards/main/priv/static/logo.webp",
@@ -63,7 +63,7 @@
     {
       "slug": "nexus-avatars",
       "name": "Nexus Avatars",
-      "description": "Automatically generates unique avatars for every user. Six distinct styles: Mech, Feline, Canine, Inkblot, Emblem and Snowflake.",
+      "description": "Automatically generates unique avatars for every user. Six distinct styles: Mech, Orc, Zombie, Inkblot, Emblem and Snowflake.",
       "author": "ResofireV2",
       "homepage": "https://github.com/ResofireV2/nexus-avatars",
       "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-avatars/main/manifest.json",
@@ -79,7 +79,7 @@
       "slug": "wrapped",
       "name": "Wrapped",
       "description": "A personalised year-in-review for every member of your community.",
-      "author": "billyrayfoss",
+      "author": "ResofireV2",
       "homepage": "https://github.com/ResofireV2/nexus-wrapped",
       "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-wrapped/main/manifest.json",
       "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-wrapped/main/priv/static/logo.webp",
@@ -120,6 +120,21 @@
         "warm"
       ],
       "version": "1.0.1"
+    },
+    {
+      "slug": "nexus-polls",
+      "name": "Polls",
+      "description": "Attach polls to posts. Members vote inline from the post footer, with permission-controlled results and voter visibility.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-polls",
+      "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-polls/main/manifest.json",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-polls/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-polls/main/priv/static/banner.webp",
+      "categories": [
+        "community",
+        "composer"
+      ],
+      "installs": 0
     }
   ]
 }
