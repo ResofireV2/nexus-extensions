@@ -29,6 +29,20 @@ Run community awards and voting ceremonies. Create nomination categories, let me
 
 ---
 
+### [Polls](https://github.com/ResofireV2/nexus-polls)
+**by ResofireV2** · `community` `composer`
+
+Attach polls to posts. Members vote inline from the post footer, with permission-controlled results and voter visibility.
+
+---
+
+### [Nexus Tickets](https://github.com/ResofireV2/nexus-tickets)
+**by ResofireV2** · `community` `moderation`
+
+Product support ticket system. Members open tickets, staff reply with internal notes, assign tickets to team members, and track status through a full helpdesk workflow. Includes web and email notifications, rate limiting, and a staff queue with status filters.
+
+---
+
 ## Submitting an Extension
 
 Extensions are submitted as pull requests that add an entry to `registry.json`.

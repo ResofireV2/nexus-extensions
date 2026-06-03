@@ -135,6 +135,21 @@
         "composer"
       ],
       "installs": 0
+    },
+    {
+      "slug": "nexus-tickets",
+      "name": "Nexus Tickets",
+      "description": "Product support ticket system. Members open tickets, staff reply with internal notes, assign and track status through a full helpdesk workflow.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-tickets",
+      "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-tickets/main/manifest.json",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-tickets/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-tickets/main/priv/static/banner.webp",
+      "categories": [
+        "community",
+        "moderation"
+      ],
+      "installs": 0
     }
   ]
 }
