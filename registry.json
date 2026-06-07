@@ -136,7 +136,7 @@
       "installs": 0
     },
     {
-      "slug": "table-of-contents",
+      "slug": "nexus-toc",
       "name": "Table of Contents",
       "description": "Adds an opt-in Table of Contents sidebar widget to posts with H1 and H2 headings. Admins enable it per-post via the post menu.",
       "author": "ResofireV2",
