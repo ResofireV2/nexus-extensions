@@ -149,6 +149,21 @@
         "content"
       ],
       "installs": 0
+    },
+    {
+      "slug": "blog",
+      "name": "Blog",
+      "description": "A full-featured community blog with categories, hero images, rich Markdown articles, draft/publish workflow, right sidebar widgets, and digest integration.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-blog",
+      "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-blog/main/manifest.json",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-blog/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-blog/main/priv/static/banner.webp",
+      "categories": [
+        "content",
+        "community"
+      ],
+      "installs": 0
     }
   ]
 }
