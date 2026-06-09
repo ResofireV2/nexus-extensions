@@ -22,10 +22,38 @@ Insert GIFs and stickers from KLIPY directly into posts. Adds a GIF picker butto
 
 ---
 
+### [Gallery](https://github.com/ResofireV2/nexus-gallery)
+**by ResofireV2** · `media` `community`
+
+A community media gallery supporting images, videos, and embeds. Includes collections, ratings, comments, reactions, and subscriptions.
+
+---
+
 ### [Nexus Awards](https://github.com/ResofireV2/nexus-awards)
-**by billyrayfoss** · `community` `events`
+**by ResofireV2** · `community` `events`
 
 Run community awards and voting ceremonies. Create nomination categories, let members vote, and publish results with real-time counts.
+
+---
+
+### [Nexus Avatars](https://github.com/ResofireV2/nexus-avatars)
+**by ResofireV2** · `community` `utilities`
+
+Automatically generates unique avatars for every user. Six distinct styles: Mech, Orc, Zombie, Inkblot, Emblem, and Snowflake.
+
+---
+
+### [Wrapped](https://github.com/ResofireV2/nexus-wrapped)
+**by ResofireV2** · `community` `analytics`
+
+A personalised year-in-review for every member of your community.
+
+---
+
+### [Nexus Events](https://github.com/ResofireV2/nexus-events)
+**by ResofireV2** · `community` `events`
+
+Community event scheduling with RSVP, calendar views, and post-linked event cards.
 
 ---
 
@@ -40,6 +68,27 @@ Attach polls to posts. Members vote inline from the post footer, with permission
 **by ResofireV2** · `community` `moderation`
 
 Product support ticket system. Members open tickets, staff reply with internal notes, assign tickets to team members, and track status through a full helpdesk workflow. Includes web and email notifications, rate limiting, and a staff queue with status filters.
+
+---
+
+### [Table of Contents](https://github.com/ResofireV2/nexus-toc)
+**by ResofireV2** · `navigation` `content`
+
+Adds an opt-in Table of Contents sidebar widget to posts with H1 and H2 headings. Admins enable it per-post via the post menu.
+
+---
+
+### [Blog](https://github.com/ResofireV2/nexus-blog)
+**by ResofireV2** · `content` `community`
+
+A full-featured community blog with categories, hero images, rich Markdown articles, draft/publish workflow, right sidebar widgets, and digest integration.
+
+---
+
+### [Notification Hub](https://github.com/ResofireV2/nexus-notification)
+**by ResofireV2** · `moderation` `utilities`
+
+Send custom notifications to individual users or broadcast to all members and groups. Includes reusable notification type templates and a full admin panel.
 
 ---
 
@@ -84,7 +133,7 @@ Before submitting, your extension must meet the following requirements:
 
 Use one or more of the following categories. If none fit, propose a new one in your PR:
 
-`games` `media` `composer` `community` `events` `integrations` `moderation` `analytics` `utilities`
+`games` `media` `composer` `community` `events` `integrations` `moderation` `analytics` `utilities` `navigation` `content`
 
 ---
 
