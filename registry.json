@@ -164,6 +164,21 @@
         "community"
       ],
       "installs": 0
+    },
+    {
+      "slug": "notification-hub",
+      "name": "Notification Hub",
+      "description": "Send custom notifications to individual users or broadcast to all members and groups. Includes reusable notification type templates and a full admin panel.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-notification",
+      "manifest_url": "https://raw.githubusercontent.com/ResofireV2/nexus-notification/main/manifest.json",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-notification/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-notification/main/priv/static/banner.webp",
+      "categories": [
+        "moderation",
+        "utilities"
+      ],
+      "installs": 0
     }
   ]
 }
