@@ -179,6 +179,110 @@
         "utilities"
       ],
       "installs": 0
+    },
+    {
+      "slug": "nexus-broadsheet",
+      "name": "Broadsheet",
+      "description": "Newspaper broadsheet aesthetic. Black on white, serif type, 2-column card grid, today's date in the masthead.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-theme-broadsheet",
+      "theme_json_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-broadsheet/main/theme.json",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-broadsheet/main/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-broadsheet/main/banner.webp",
+      "categories": [
+        "light",
+        "editorial",
+        "grid",
+        "minimal"
+      ],
+      "type": "theme",
+      "installs": 0
+    },
+    {
+      "slug": "nexus-brutalist",
+      "name": "Brutalist",
+      "description": "Raw concrete aesthetic. Zero border-radius, heavy black borders, uppercase type, numbered posts.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-theme-brutalist",
+      "theme_json_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-brutalist/main/theme.json",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-brutalist/main/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-brutalist/main/banner.webp",
+      "categories": [
+        "bold",
+        "minimal",
+        "dark",
+        "light"
+      ],
+      "type": "theme",
+      "installs": 0
+    },
+    {
+      "slug": "nexus-focus",
+      "name": "Focus",
+      "description": "No sidebar. Centred reading column. Serif font. Admin colors apply untouched.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-theme-focus",
+      "theme_json_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-focus/main/theme.json",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-focus/main/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-focus/main/banner.webp",
+      "categories": [
+        "minimal",
+        "reading",
+        "light",
+        "dark"
+      ],
+      "type": "theme",
+      "installs": 0
+    },
+    {
+      "slug": "nexus-neon",
+      "name": "Neon",
+      "description": "Acid green on near-black. Single hue. Monospace. Zero border-radius.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-theme-neon",
+      "theme_json_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-neon/main/theme.json",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-neon/main/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-neon/main/banner.webp",
+      "categories": [
+        "dark",
+        "bold",
+        "minimal"
+      ],
+      "type": "theme",
+      "installs": 0
+    },
+    {
+      "slug": "nexus-outline",
+      "name": "Outline",
+      "description": "Clean light theme. Everything defined by borders \u2014 no background fills anywhere. Accent color does all the work.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-theme-outline",
+      "theme_json_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-outline/main/theme.json",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-outline/main/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-outline/main/banner.webp",
+      "categories": [
+        "light",
+        "minimal",
+        "clean"
+      ],
+      "type": "theme",
+      "installs": 0
+    },
+    {
+      "slug": "wanderer",
+      "name": "Wanderer",
+      "description": "A tactile theme with pill buttons, floating panels, and aggressive rounding. Every interactive element has physical depth.",
+      "author": "ResofireV2",
+      "homepage": "https://github.com/ResofireV2/nexus-theme-wanderer",
+      "theme_json_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-wanderer/main/theme.json",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-wanderer/main/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-wanderer/main/banner.webp",
+      "categories": [
+        "rounded",
+        "tactile"
+      ],
+      "type": "theme",
+      "installs": 0
     }
   ]
 }
