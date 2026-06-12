@@ -96,42 +96,42 @@ Send custom notifications to individual users or broadcast to all members and gr
 
 Themes are installed from Admin → Appearance → Themes. They apply structural CSS overrides to Nexus — colors remain under admin control via the Appearance panel.
 
-### [Broadsheet](https://github.com/ResofireV2/nexus-theme-broadsheet)
+### [Broadsheet](https://github.com/ResofireV2/nexus-broadsheet)
 **by ResofireV2** · `light` `editorial` `grid` `minimal`
 
 Newspaper broadsheet aesthetic. Black on cream, Playfair Display serif throughout, 2-column card grid feed, and a dateline injected into the sidebar masthead. Light mode only.
 
 ---
 
-### [Brutalist](https://github.com/ResofireV2/nexus-theme-brutalist)
+### [Brutalist](https://github.com/ResofireV2/nexus-brutalist)
 **by ResofireV2** · `bold` `minimal` `dark` `light`
 
 Raw concrete aesthetic. Zero border-radius on every surface, heavy 2–4px borders, Space Mono monospace throughout, numbered feed posts via CSS counter, and uppercase chrome everywhere. Works in both dark and light mode.
 
 ---
 
-### [Focus](https://github.com/ResofireV2/nexus-theme-focus)
+### [Focus](https://github.com/ResofireV2/nexus-focus)
 **by ResofireV2** · `minimal` `reading` `light` `dark`
 
 No sidebar. The sidebar hides by default and slides in as an overlay via a hamburger button. Centred reading column, Lora serif font, and a full-width feed. Admin colors apply untouched. Works in both dark and light mode.
 
 ---
 
-### [Neon](https://github.com/ResofireV2/nexus-theme-neon)
+### [Neon](https://github.com/ResofireV2/nexus-neon)
 **by ResofireV2** · `dark` `bold` `minimal`
 
 Acid green on near-black. A single hue — `#00ffa3` — at varying opacities across all surfaces, text, and borders. Space Mono monospace, zero border-radius, numbered thread counter. Dark mode only.
 
 ---
 
-### [Outline](https://github.com/ResofireV2/nexus-theme-outline)
+### [Outline](https://github.com/ResofireV2/nexus-outline)
 **by ResofireV2** · `light` `minimal` `clean`
 
 Everything defined by borders — no background fills on any structural surface. All depth and hierarchy communicated through borders alone, with the admin accent color as the sole chromatic element. DM Sans geometric sans. Light mode only.
 
 ---
 
-### [Wanderer](https://github.com/ResofireV2/nexus-theme-wanderer)
+### [Wanderer](https://github.com/ResofireV2/nexus-wanderer)
 **by ResofireV2** · `rounded` `tactile`
 
 A tactile theme with pill buttons, a floating sidebar card, and aggressive rounding throughout. Every interactive element has physical depth via bottom-shadow press animations. Works in both dark and light mode.
