@@ -187,8 +187,8 @@
       "author": "ResofireV2",
       "homepage": "https://github.com/ResofireV2/nexus-theme-broadsheet",
       "theme_json_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-broadsheet/main/theme.json",
-      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-broadsheet/main/logo.webp",
-      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-broadsheet/main/banner.webp",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-broadsheet/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-broadsheet/main/priv/static/banner.webp",
       "categories": [
         "light",
         "editorial",
@@ -205,8 +205,8 @@
       "author": "ResofireV2",
       "homepage": "https://github.com/ResofireV2/nexus-theme-brutalist",
       "theme_json_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-brutalist/main/theme.json",
-      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-brutalist/main/logo.webp",
-      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-brutalist/main/banner.webp",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-brutalist/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-brutalist/main/priv/static/banner.webp",
       "categories": [
         "bold",
         "minimal",
@@ -223,8 +223,8 @@
       "author": "ResofireV2",
       "homepage": "https://github.com/ResofireV2/nexus-theme-focus",
       "theme_json_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-focus/main/theme.json",
-      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-focus/main/logo.webp",
-      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-focus/main/banner.webp",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-focus/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-focus/main/priv/static/banner.webp",
       "categories": [
         "minimal",
         "reading",
@@ -241,8 +241,8 @@
       "author": "ResofireV2",
       "homepage": "https://github.com/ResofireV2/nexus-theme-neon",
       "theme_json_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-neon/main/theme.json",
-      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-neon/main/logo.webp",
-      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-neon/main/banner.webp",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-neon/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-neon/main/priv/static/banner.webp",
       "categories": [
         "dark",
         "bold",
@@ -258,8 +258,8 @@
       "author": "ResofireV2",
       "homepage": "https://github.com/ResofireV2/nexus-theme-outline",
       "theme_json_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-outline/main/theme.json",
-      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-outline/main/logo.webp",
-      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-outline/main/banner.webp",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-outline/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-outline/main/priv/static/banner.webp",
       "categories": [
         "light",
         "minimal",
@@ -275,8 +275,8 @@
       "author": "ResofireV2",
       "homepage": "https://github.com/ResofireV2/nexus-theme-wanderer",
       "theme_json_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-wanderer/main/theme.json",
-      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-wanderer/main/logo.webp",
-      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-wanderer/main/banner.webp",
+      "logo_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-wanderer/main/priv/static/logo.webp",
+      "banner_url": "https://raw.githubusercontent.com/ResofireV2/nexus-theme-wanderer/main/priv/static/banner.webp",
       "categories": [
         "rounded",
         "tactile"
