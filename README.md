@@ -92,6 +92,52 @@ Send custom notifications to individual users or broadcast to all members and gr
 
 ---
 
+## Available Themes
+
+Themes are installed from Admin → Appearance → Themes. They apply structural CSS overrides to Nexus — colors remain under admin control via the Appearance panel.
+
+### [Broadsheet](https://github.com/ResofireV2/nexus-theme-broadsheet)
+**by ResofireV2** · `light` `editorial` `grid` `minimal`
+
+Newspaper broadsheet aesthetic. Black on cream, Playfair Display serif throughout, 2-column card grid feed, and a dateline injected into the sidebar masthead. Light mode only.
+
+---
+
+### [Brutalist](https://github.com/ResofireV2/nexus-theme-brutalist)
+**by ResofireV2** · `bold` `minimal` `dark` `light`
+
+Raw concrete aesthetic. Zero border-radius on every surface, heavy 2–4px borders, Space Mono monospace throughout, numbered feed posts via CSS counter, and uppercase chrome everywhere. Works in both dark and light mode.
+
+---
+
+### [Focus](https://github.com/ResofireV2/nexus-theme-focus)
+**by ResofireV2** · `minimal` `reading` `light` `dark`
+
+No sidebar. The sidebar hides by default and slides in as an overlay via a hamburger button. Centred reading column, Lora serif font, and a full-width feed. Admin colors apply untouched. Works in both dark and light mode.
+
+---
+
+### [Neon](https://github.com/ResofireV2/nexus-theme-neon)
+**by ResofireV2** · `dark` `bold` `minimal`
+
+Acid green on near-black. A single hue — `#00ffa3` — at varying opacities across all surfaces, text, and borders. Space Mono monospace, zero border-radius, numbered thread counter. Dark mode only.
+
+---
+
+### [Outline](https://github.com/ResofireV2/nexus-theme-outline)
+**by ResofireV2** · `light` `minimal` `clean`
+
+Everything defined by borders — no background fills on any structural surface. All depth and hierarchy communicated through borders alone, with the admin accent color as the sole chromatic element. DM Sans geometric sans. Light mode only.
+
+---
+
+### [Wanderer](https://github.com/ResofireV2/nexus-theme-wanderer)
+**by ResofireV2** · `rounded` `tactile`
+
+A tactile theme with pill buttons, a floating sidebar card, and aggressive rounding throughout. Every interactive element has physical depth via bottom-shadow press animations. Works in both dark and light mode.
+
+---
+
 ## Submitting an Extension
 
 Extensions are submitted as pull requests that add an entry to `registry.json`.
@@ -137,6 +183,50 @@ Use one or more of the following categories. If none fit, propose a new one in y
 
 ---
 
+## Submitting a Theme
+
+Themes are submitted as pull requests that add an entry to `registry.json` with `"type": "theme"`.
+
+### Requirements
+
+1. **Public GitHub repository** — the source code must be publicly accessible.
+2. **Valid `theme.json`** — served at a stable raw URL. Must include at minimum: `slug`, `name`, `version`.
+3. **`theme.css`** — structural CSS overrides only. Color values must use Nexus CSS variables — do not hardcode colors that would conflict with the admin Appearance panel.
+4. **Logo and banner images** — both at `priv/static/logo.webp` (200×200px) and `priv/static/banner.webp` (800×400px).
+5. **Stable release** — the repo must have a published GitHub release for the installer to download.
+
+### How to Submit
+
+1. Fork this repository.
+2. Add your theme to the `extensions` array in `registry.json` with `"type": "theme"`:
+
+```json
+{
+  "slug":           "your-theme-slug",
+  "name":           "Your Theme Name",
+  "description":    "A clear one or two sentence description of what your theme looks like.",
+  "author":         "your-github-username",
+  "homepage":       "https://github.com/yourorg/your-theme",
+  "theme_json_url": "https://raw.githubusercontent.com/yourorg/your-theme/main/theme.json",
+  "logo_url":       "https://raw.githubusercontent.com/yourorg/your-theme/main/priv/static/logo.webp",
+  "banner_url":     "https://raw.githubusercontent.com/yourorg/your-theme/main/priv/static/banner.webp",
+  "categories":     ["your-category"],
+  "type":           "theme",
+  "installs":       0
+}
+```
+
+3. Open a pull request with the title `Add theme: Your Theme Name`.
+4. In the PR description, include a screenshot or preview of the theme.
+
+### Categories
+
+Use one or more of the following categories:
+
+`light` `dark` `minimal` `bold` `editorial` `reading` `grid` `clean` `rounded` `tactile`
+
+---
+
 ## License
 
-This registry is MIT licensed. Individual extensions are licensed under their own terms — check each extension's repository for details.
+This registry is MIT licensed. Individual extensions and themes are licensed under their own terms — check each repository for details.
